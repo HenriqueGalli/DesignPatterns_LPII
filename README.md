@@ -1,18 +1,24 @@
-## Getting Started
+## 2º Bimestre - N1 - Design Patterns
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## Facade - Structural Patterns
 
-The workspace contains two folders by default, where:
+- Nome: Calculadora Facade
+- Tipo: Estrutural
+- Objetivo: Realizar 4 operações diferentes com 2 números.
+- Diagrama UML Anexado ao Git
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Command - Behavioral Patterns
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Nome: Conversor de Dimensões
+- Tipo: Comportamento
+- Objetivo: Converter unidades de medidas de comprimento.
+- Diagrama UML Anexado ao Git
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Integrantes do Grupo:
+Aluna:Beatriz Xavier Manfron RA:081190032
+Aluno:Henrique Bragante Galli RA:081190044
+Aluno:Renan Oliveira França RA:081190025
+Aluno:Vítor Longarini da Costa RA:081190046
+Aluno:William Massao Marubayashi Saito RA:081190001
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
